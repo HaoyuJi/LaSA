@@ -1,0 +1,25 @@
+Nose: The tip or apex of the nose.
+Neck: The junction between the head and the torso.
+Right Shoulder: The joint where the right arm meets the torso.
+Right Elbow: The bending joint between the upper and lower parts of the right arm.
+Right Wrist: The joint connecting the right forearm and hand.
+Left Shoulder: The joint where the left arm meets the torso.
+Left Elbow:  The bending joint between the upper and lower parts of the left arm.
+Left Wrist: The joint connecting the left forearm and hand.
+Mid Hip (Spine Base): The central point of the hips, often considered the core center in body posture.
+Right Hip: The joint where the right leg attaches to the pelvis.
+Right Knee: The bending joint in the middle of the right leg.
+Right Ankle: The joint connecting the right lower leg and foot.
+Left Hip: The joint where the left leg attaches to the pelvis.
+Left Knee: The bending joint in the middle of the left leg.
+Left Ankle: The joint connecting the left lower leg and foot.
+Right Eye: The external corner of the right eye.
+Left Eye: The external corner of the left eye.
+Right Ear: The point on the right ear closest to the face.
+Left Ear: The point on the left ear closest to the face.
+Left Big Toe: The first toe of the left foot.
+Left Small Toe: The smallest toe on the left foot.
+Left Heel: The back part of the left foot below the ankle.
+Right Big Toe: The first toe of the right foot.
+Right Small Toe: The smallest toe on the right foot.
+Right Heel: The back part of the right foot below the ankle.

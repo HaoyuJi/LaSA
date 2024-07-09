@@ -1,0 +1,22 @@
+NONE: No action or skating element is being performed.
+Step Sequence: A series of steps and turns executed in sequence, displaying the skater's control, rhythm, and precision. The skater uses edges and turns to create intricate patterns on the ice.
+Choreographic Combination Spin (ChComboSpin): A spin combining various positions (upright, sit, camel) and possibly changes of foot. It's characterized by its creativity, flexibility, and the skater's ability to maintain speed and control throughout.
+Axel: A jump where the skater takes off forward, does one and a half rotations (for a single Axel) or more, and lands on the back outside edge of the opposite foot. It's the only jump that starts forward and is known for its challenging extra half rotation.
+Camel Spin: A spin where the skater's free leg is extended backward parallel to the ice at hip level or higher while the chest is open and facing upwards. The skater maintains a continuous, controlled spin on one foot.
+Loop: Also known as the "Rittberger" jump. The skater takes off from a back outside edge, makes rotations in the air, and lands on the same back outside edge. It does not involve a toe-pick assist.
+Flip: A toe-pick assisted jump. The skater launches from a back inside edge, performs multiple rotations in the air, and lands on the back outside edge of the opposite foot.
+Lutz: Similar to the Flip, but the skater takes off from a back outside edge and lands on the back outside edge of the opposite foot. The entry edge and the counter-rotated position of the body make it distinctive.
+Triple Joint Jump: This term is not standard in figure skating terminology. It might refer to a triple jump, which involves three rotations in the air.
+Lutz-Toe Loop (Lutz_Toeloop): A combination jump starting with a Lutz, followed immediately in the air by a Toe Loop without additional steps or turns in between.
+Salchow: The skater takes off from a back inside edge, performs multiple rotations in the air, and lands on the back outside edge of the opposite foot. It's characterized by a scooping motion of the take-off leg.
+Layback Spin: A spin where the skater leans backward with the head and shoulders dropped back while spinning. The back is arched, and the free leg position varies.
+Toe Loop (Toeloop): The skater takes off using the toe-pick of the skating foot, jumps, rotates in the air, and lands on the back outside edge of the take-off foot.
+Sit Spin: The skater spins in a position that resembles sitting in a chair, with the skating leg bent and the free leg extended, usually parallel to the ice.
+Choreographic Sit Spin (ChSitSpin): A sit spin that includes creative, often unconventional positions or movements, adding artistic flair to the spin.
+Axel-Toe Loop (Axel_Toeloop): A combination jump that starts with an Axel and is immediately followed by a Toe Loop, executed without additional steps or turns.
+Flip-Toe Loop (Flip_Toeloop): A combination jump starting with a Flip, followed immediately by a Toe Loop without intervening steps or turns.
+Toe Loop-Toe Loop (Toeloop_Toeloop): A series of two consecutive Toe Loop jumps executed in quick succession without additional steps or turns in between.
+Choreographic Camel Spin (ChCamelSpin): A camel spin featuring unusual, innovative positions or movements, focusing on artistic expression rather than traditional technical positions.
+Salchow-Toe Loop (Salchow_Toeloop): A combination jump where a Salchow is immediately followed by a Toe Loop, executed without intervening steps or turns.
+Lutz-Loop (Lutz_Loop): A combination jump starting with a Lutz, followed by a Loop jump, executed in sequence without additional steps or turns.
+Loop-Toe Loop (Loop_Toeloop): A combination jump where a Loop is followed immediately by a Toe Loop, executed seamlessly one after the other.

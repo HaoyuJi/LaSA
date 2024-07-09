@@ -1,0 +1,52 @@
+NONE: No action is being performed.
+Bow: The act of bending the body or head as a formal gesture of respect.
+Brushing Hair: Using a brush to groom and style the hair.
+Brushing Teeth: Cleaning the teeth with a toothbrush.
+Check Time (From Watch): Looking at a watch to see the current time.
+Cheer Up: Encouraging or comforting someone to feel happier.
+Clapping: Bringing the hands together repeatedly to express approval or appreciation.
+Cross Hands In Front (Say Stop): Crossing arms in front of the body to indicate stop or refusal.
+Drink Water: Consuming water from a glass or bottle.
+Drop: Letting something fall or slip from the hands.
+Eat Meal/Snack: Consuming food, either a meal or a light snack.
+Falling: Losing balance and collapsing to the ground.
+Giving Something to Another Person: Handing an object to someone else.
+Hand Waving: Moving the hand side to side as a greeting or farewell.
+Handshaking: Grasping someone's hand as a greeting or agreement.
+Hopping (One Foot Jumping): Jumping on one foot repeatedly.
+Hugging Other Person: Embracing someone in a show of affection or comfort.
+Jump Up: Leaping into the air from a standing position.
+Kicking Other Person: Striking someone with the foot.
+Kicking Something: Striking an object with the foot.
+Make a Phone Call/Answer Phone: Using a phone to place or receive a call.
+Pat on Back of Other Person: Gently tapping someone's back as a gesture of approval or comfort.
+Pickup: Lifting something from a lower position.
+Playing with Phone/Tablet: Using a mobile device for various activities.
+Point Finger at the Other Person: Directing a finger towards someone, often in accusation or emphasis.
+Pointing to Something with Finger: Indicating an object or direction using a finger.
+Punching/Slapping Other Person: Striking someone with a closed fist or open hand.
+Pushing Other Person: Applying force to move someone away.
+Put on a Hat/Cap: Placing headwear on the head.
+Put Something Inside Pocket: Inserting an object into a pocket.
+Reading: Looking at and comprehending written or printed material.
+Rub Two Hands Together: Moving the hands against each other.
+Salute: A gesture of respect, often military in nature, involving raising the hand to the forehead.
+Sitting Down: Lowering the body into a sitting position.
+Standing Up: Rising from a sitting or squatting position to stand.
+Take Off a Hat/Cap: Removing headwear from the head.
+Take Off Glasses: Removing eyeglasses.
+Take Off Jacket: Removing a coat or jacket.
+Take Out Something From Pocket: Removing an object from a pocket.
+Taking a Selfie: Using a camera or smartphone to take a photo of oneself.
+Tear Up Paper: Ripping paper into pieces.
+Throw: Propelling something through the air with force using the hand.
+Touch Back (Backache): Placing a hand on the back, often due to discomfort or pain.
+Touch Chest (Stomachache/Heart Pain): Placing a hand on the chest, indicating stomach or heart pain.
+Touch Head (Headache): Placing a hand on the head, indicating a headache.
+Touch Neck (Neckache): Placing a hand on the neck, indicating neck pain or discomfort.
+Typing on a Keyboard: Using a keyboard to enter data or write.
+Use a Fan (With Hand or Paper)/Feeling Warm: Using a handheld fan or a piece of paper to create a breeze for cooling.
+Wear Jacket: Putting on a coat or jacket.
+Wear on Glasses: Putting on eyeglasses.
+Wipe Face: Using a hand or cloth to clean or dry the face.
+Writing: The act of composing text or symbols on a surface, typically paper.

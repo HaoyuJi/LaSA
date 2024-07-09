@@ -1,0 +1,130 @@
+NONE: No figure skating element performed.
+Choreographic Combination Spin Level 4 (ChComboSpin4): A complex and creative spin with a variety of positions at the highest level of difficulty.
+Double Axel (2Axel): A jump with two and a half rotations in the air, starting from a forward outside edge.
+Choreographic Sequence Level 1 (ChoreoSequence1): A sequence that showcases the skater's interpretation and creativity, at a beginner level.
+Triple Loop (3Loop): A jump with three rotations, taking off and landing on the same back outside edge.
+Step Sequence Level 3 (StepSequence3): A sequence of intricate steps and turns at an intermediate level of difficulty.
+Triple Axel (3Axel): A difficult jump with three and a half rotations, starting from a forward outside edge.
+Triple Flip (3Flip): A toe-pick assisted jump with three rotations, starting from a back inside edge.
+Flying Camel Spin Level 4 (FlyCamelSpin4): A high-level camel spin initiated with a leap into the air.
+Triple Lutz (3Lutz): A toe-pick assisted jump with three rotations, starting from a back outside edge.
+Triple Lutz-Triple Toe Loop (3Lutz_3Toeloop): A combination of a triple Lutz followed by a triple toe loop.
+Layback Spin Level 4 (LaybackSpin4): A high-level spin where the skater arches their back and leans backward.
+Step Sequence Level 4 (StepSequence4): The highest level of step sequence complexity.
+Quadruple Toe Loop (4Toeloop): A jump with four rotations, using a toe pick to assist the takeoff.
+Step Sequence Level 2 (StepSequence2): A sequence of steps and turns at a lower level of difficulty.
+Flying Choreographic Combination Spin Level 4 (FlyChComboSpin4): A high-level combination spin with a flying entrance and choreographic elements.
+Flying Sit Spin Level 4 (FlySitSpin4): A high-level sit spin that begins with a flying entrance.
+Triple Salchow (3Salchow): A jump with three rotations, taking off from a back inside edge.
+Choreographic Sit Spin Level 4 (ChSitSpin4): A level 4 sit spin with creative positions and movements.
+Choreographic Combination Spin Level 3 (ChComboSpin3): A combination spin with creative elements at level 3 difficulty.
+Quadruple Salchow (4Salchow): A jump with four rotations, taking off from a back inside edge.
+Triple Flip-Triple Toe Loop (3Flip_3Toeloop): A combination of a triple flip followed by a triple toe loop.
+Flying Camel Spin Level 3 (FlyCamelSpin3): A level 3 camel spin that begins with a flying entrance.
+Triple Lutz-Double Toe Loop (3Lutz_2Toeloop): A combination of a triple Lutz followed by a double toe loop.
+Double Axel-Triple Toe Loop (2Axel_3Toeloop): A double Axel followed by a triple toe loop.
+Triple Axel-Double Toe Loop (3Axel_2Toeloop): A triple Axel followed by a double toe loop.
+Triple Flip-Double Toe Loop (3Flip_2Toeloop): A triple flip followed by a double toe loop.
+Choreographic Camel Spin Level 4 (ChCamelSpin4): A level 4 camel spin with artistic and creative elements.
+Quadruple Lutz (4Lutz): A highly difficult jump with four rotations, starting from a back outside edge.
+Flying Sit Spin Level 3 (FlySitSpin3): A sit spin with a level 3 difficulty that starts with a flying entrance.
+Layback Spin Level 3 (LaybackSpin3): A spin where the skater leans backward with a moderate level of complexity.
+Triple Toe Loop-Triple Toe Loop (3Toeloop_3Toeloop): A combination of two triple toe loops performed consecutively.
+Triple Lutz-Triple Loop (3Lutz_3Loop): A combination of a triple Lutz followed by a triple loop jump.
+Choreographic Combination Spin Level 2 (ChComboSpin2): A level 2 spin that incorporates creative and artistic elements.
+Choreographic Sit Spin Level 3 (ChSitSpin3): A sit spin with choreographic elements at level 3 difficulty.
+Double Axel-Double Toe Loop (2Axel_2Toeloop): A double Axel followed by a double toe loop.
+Triple Lutz-Double Toe Loop-Double Loop (3Lutz_2Toeloop_2Loop): A combination of a triple Lutz, double toe loop, and double loop.
+Quadruple Toe Loop-Triple Toe Loop (4Toeloop_3Toeloop): A quadruple toe loop followed by a triple toe loop.
+Triple Salchow-Triple Toe Loop (3Salchow_3Toeloop): A triple Salchow followed by a triple toe loop.
+Triple Flip-Euler-Triple Salchow (3Flip_Euler_3Salchow): A combination of a triple flip, an Euler (half loop), and a triple Salchow.
+Single Axel (1Axel): A basic jump with one and a half rotations in the air.
+Triple Toe Loop (3Toeloop): A jump with three rotations, using a toe pick to assist the takeoff.
+Triple Lutz-Euler-Triple Salchow (3Lutz_Euler_3Salchow): A combination of a triple Lutz, Euler, and triple Salchow.
+Choreographic Camel Spin Level 3 (ChCamelSpin3): A camel spin with level 3 difficulty, incorporating choreographic elements.
+Triple Flip-Double Toe Loop-Double Loop (3Flip_2Toeloop_2Loop): A combination of a triple flip, double toe loop, and double loop.
+Quadruple Toe Loop-Double Toe Loop (4Toeloop_2Toeloop): A quadruple toe loop followed by a double toe loop.
+Double Salchow (2Salchow): A jump with two rotations, taking off from a back inside edge.
+Double Loop (2Loop): A jump with two rotations, taking off and landing on the same back outside edge.
+Double Lutz (2Lutz): A double jump with two rotations, starting from a back outside edge.
+Flying Camel Spin Level 2 (FlyCamelSpin2): A camel spin with level 2 difficulty, initiated with a flying entrance.
+Quadruple Flip (4Flip): A highly challenging jump with four rotations, starting from a back inside edge.
+Quadruple Lutz-Triple Toe Loop (4Lutz_3Toeloop): A quadruple Lutz followed by a triple toe loop.
+Triple Salchow-Double Toe Loop (3Salchow_2Toeloop): A triple Salchow followed by a double toe loop.
+Double Toe Loop (2Toeloop): A jump with two rotations, using a toe pick to assist the takeoff.
+Flying Choreographic Combination Spin Level 3 (FlyChComboSpin3): A combination spin with a flying entrance and level 3 choreographic elements.
+Double Axel-Double Toe Loop-Double Loop (2Axel_2Toeloop_2Loop): A double Axel followed by a double toe loop and a double loop.
+Double Axel-Euler-Triple Salchow (2Axel_Euler_3Salchow): A combination jump sequence starting with a double Axel, followed by an Euler (half loop), and concluding with a triple Salchow.
+Double Flip (2Flip): A toe-pick assisted jump with two rotations, starting from a back inside edge.
+Layback Spin Level 2 (LaybackSpin2): A spin with moderate complexity where the skater leans backward and arches the back.
+Choreographic Sit Spin Level 2 (ChSitSpin2): A level 2 sit spin incorporating choreographic and artistic elements.
+Triple Loop-Double Toe Loop (3Loop_2Toeloop): A combination of a triple loop jump followed by a double toe loop.
+Triple Axel-Triple Toe Loop (3Axel_3Toeloop): A challenging combination of a triple Axel followed by a triple toe loop.
+Triple Salchow-Double Toe Loop-Double Loop (3Salchow_2Toeloop_2Loop): A triple Salchow followed by a double toe loop and a double loop.
+Quadruple Salchow-Triple Toe Loop (4Salchow_3Toeloop): A quadruple Salchow jump followed by a triple toe loop.
+Triple Axel-Euler-Triple Salchow (3Axel_Euler_3Salchow): A combination sequence starting with a triple Axel, followed by an Euler, and finishing with a triple Salchow.
+Flying Sit Spin Level 2 (FlySitSpin2): A sit spin with level 2 difficulty that includes a flying entrance.
+Single Loop (1Loop): A basic jump with one rotation, taking off and landing on the same back outside edge.
+Double Axel-Triple Toe Loop-Double Toe Loop (2Axel_3Toeloop_2Toeloop): A double Axel followed by a triple toe loop and then a double toe loop.
+Triple Loop-Triple Toe Loop (3Loop_3Toeloop): A combination of a triple loop jump followed by a triple toe loop.
+Quadruple Salchow-Double Toe Loop (4Salchow_2Toeloop): A quadruple Salchow jump followed by a double toe loop.
+Single Lutz (1Lutz): A basic jump with one rotation, starting from a back outside edge.
+Choreographic Camel Spin Level 2 (ChCamelSpin2): A camel spin with level 2 difficulty and choreographic elements.
+Triple Flip-Euler-Double Salchow (3Flip_Euler_2Salchow): A combination of a triple flip, Euler, and double Salchow.
+Triple Toe Loop-Double Toe Loop (3Toeloop_2Toeloop): A triple toe loop followed by a double toe loop.
+Triple Axel-Double Toe Loop-Double Loop (3Axel_2Toeloop_2Loop): A triple Axel followed by a double toe loop and a double loop.
+Triple Lutz-Single Loop (3Lutz_1Loop): A triple Lutz followed by a single loop jump.
+Double Lutz-Triple Toe Loop (2Lutz_3Toeloop): A double Lutz jump followed by a triple toe loop.
+Step Sequence Level 1 (StepSequence1): A basic sequence of steps and turns showcasing the skater's footwork at a beginner level.
+Quadruple Loop (4Loop): A highly challenging jump with four rotations, taking off and landing on the same back outside edge.
+Triple Axel-Euler-Triple Flip (3Axel_Euler_3Flip): A triple Axel followed by an Euler and a triple flip.
+Triple Lutz-Euler-Double Salchow (3Lutz_Euler_2Salchow): A triple Lutz, followed by an Euler, and concluding with a double Salchow.
+Triple Lutz-Euler-Triple Flip (3Lutz_Euler_3Flip): A combination of a triple Lutz, Euler, and triple flip.
+Single Flip (1Flip): A basic toe-pick assisted jump with one rotation, starting from a back inside edge.
+Flying Choreographic Sit Spin Level 4 (FlyChSitSpin4): A level 4 sit spin with a flying entrance and choreographic elements.
+Triple Flip-Double Toe Loop-Double Toe Loop (3Flip_2Toeloop_2Toeloop): A challenging combination of a triple flip followed by two consecutive double toe loops.
+Flying Camel Spin Level 1 (FlyCamelSpin1): A basic level camel spin that starts with a flying entrance.
+Double Flip-Double Toe Loop (2Flip_2Toeloop): A double flip jump followed by a double toe loop.
+Single Salchow (1Salchow): A jump with a single rotation, taking off from a back inside edge.
+Triple Toe Loop-Euler-Triple Salchow (3Toeloop_Euler_3Salchow): A three-jump combination starting with a Triple Toe Loop, followed by an Euler (half loop), and ending with a Triple Salchow.
+Double Axel-Euler-Double Salchow (2Axel_Euler_2Salchow): A jump sequence involving a Double Axel, an Euler, and a Double Salchow.
+Double Axel-Euler-Double Flip (2Axel_Euler_2Flip): A combination of a Double Axel, an Euler, and a Double Flip.
+Double Axel-Double Toe Loop-Double Toe Loop (2Axel_2Toeloop_2Toeloop): A sequence of a Double Axel followed by two Double Toe Loops.
+Sit Spin Level 4 (SitSpin4): A high-level sit spin with complex positions and variations.
+Camel Spin Level 4 (CamelSpin4): A level 4 camel spin, characterized by the skater's extended free leg parallel to the ice.
+Double Lutz-Euler-Triple Salchow (2Lutz_Euler_3Salchow): A combination of a Double Lutz, an Euler, and a Triple Salchow.
+Sit Spin Level 2 (SitSpin2): A sit spin executed with basic positions and level 2 difficulty.
+Single Axel-Triple Toe Loop (1Axel_3Toeloop): A jump sequence starting with a Single Axel and followed by a Triple Toe Loop.
+Double Axel-Single Toe Loop-Double Flip (2Axel_1Toeloop_2Flip): A sequence involving a Double Axel, a Single Toe Loop, and a Double Flip.
+Single Axel-Double Toe Loop (1Axel_2Toeloop): A combination of a Single Axel followed by a Double Toe Loop.
+Quadruple Toe Loop-Double Toe Loop-Double Loop (4Toeloop_2Toeloop_2Loop): A challenging jump sequence involving a Quadruple Toe Loop, Double Toe Loop, and Double Loop.
+Double Loop-Double Toe Loop-Double Toe Loop (2Loop_2Toeloop_2Toeloop): A combination of a Double Loop followed by two Double Toe Loops.
+Triple Lutz-Single Toe Loop-Triple Salchow (3Lutz_1Toeloop_3Salchow): A complex jump sequence involving a Triple Lutz, Single Toe Loop, and Triple Salchow.
+Triple Flip-Double Toe Loop-Single Loop (3Flip_2Toeloop_Loop): A sequence of a Triple Flip followed by a Double Toe Loop and a Single Loop.
+Double Lutz-Double Toe Loop-Double Loop (2Lutz_2Toeloop_2Loop): A jump sequence consisting of a Double Lutz, Double Toe Loop, and Double Loop.
+Single Axel-Euler-Triple Salchow (1Axel_Euler_3Salchow): A jump sequence starting with a Single Axel, followed by an Euler and a Triple Salchow.
+Double Flip-Euler-Triple Salchow (2Flip_Euler_3Salchow): A combination of a Double Flip, an Euler, and a Triple Salchow.
+Choreographic Combination Spin Level 1 (ChComboSpin1): A level 1 spin that includes various creative positions and movements.
+Quadruple Salchow-Triple Toe Loop-Triple Loop (4Salchow_3Toeloop_3Loop): A highly challenging sequence involving a Quadruple Salchow, Triple Toe Loop, and Triple Loop.
+Triple Flip-Single Toe Loop (3Flip_1Toeloop): A combination of a Triple Flip followed by a Single Toe Loop.
+Triple Lutz-Single Toe Loop-Double Salchow (3Lutz_1Toeloop_2Salchow): A jump sequence involving a Triple Lutz, Single Toe Loop, and Double Salchow.
+Double Flip-Double Toe Loop-Double Loop (2Flip_2Toeloop_2Loop): A sequence of a Double Flip followed by a Double Toe Loop and a Double Loop.
+Double Toe Loop-Double Toe Loop (2Toeloop_2Toeloop): Two consecutive Double Toe Loops.
+Choreographic Step Sequence Level 1 (ChoreoStepSequence1): A level 1 step sequence focusing on choreography and interpretation.
+Single Axel-Single Toe Loop (1Axel_1Toeloop): A combination of a Single Axel followed by a Single Toe Loop.
+Double Axel-Double Toe Loop-Single Loop (2Axel_2Toeloop_1Loop): A jump sequence starting with a Double Axel, followed by a Double Toe Loop and a Single Loop.
+Double Toe Loop-Euler-Triple Salchow (2Toeloop_Euler_3Salchow): A combination of a Double Toe Loop, an Euler, and a Triple Salchow.
+Double Lutz-Euler-Double Salchow (2Lutz_Euler_2Salchow): A sequence involving a Double Lutz, an Euler, and a Double Salchow.
+Flying Choreographic Camel Spin Level 4 (FlyChCamelSpin4): A level 4 camel spin with a flying entry and choreographic elements.
+Triple Toe Loop-Double Toe Loop-Double Loop (3Toeloop_2Toeloop_2Loop): A complex sequence of a Triple Toe Loop, Double Toe Loop, and Double Loop.
+Sit Spin Level 3 (SitSpin3): A sit spin with level 3 difficulty, featuring advanced positions and variations.
+Triple Salchow-Double Toe Loop-Single Loop (3Salchow_2Toeloop_1Loop): A jump combination of a Triple Salchow, Double Toe Loop, and Single Loop.
+Triple Lutz-Triple Toe Loop-Double Loop (3Lutz_3Toeloop_2Loop): A challenging sequence involving a Triple Lutz, Triple Toe Loop, and Double Loop.
+Flying Choreographic Combination Spin Level 2 (FlyChComboSpin2): A level 2 combination spin with a flying entry, showcasing choreography and creativity.
+Camel Spin Level 3 (CamelSpin3): A level 3 camel spin with advanced positions and transitions.
+Triple Axel-Single Toe Loop (3Axel_1Toeloop): A combination of a Triple Axel followed by a Single Toe Loop.
+Quadruple Flip-Double Toe Loop (4Flip_2Toeloop): A highly technical sequence of a Quadruple Flip followed by a Double Toe Loop.
+Triple Lutz-Double Toe Loop-Double Toe Loop (3Lutz_2Toeloop_2Toeloop): A jump sequence of a Triple Lutz followed by two Double Toe Loops.
+Triple Lutz-Triple Toe Loop-Double Toe Loop (3Lutz_3Toeloop_2Toeloop): A combination involving a Triple Lutz, Triple Toe Loop, and Double Toe Loop.
+Triple Loop-Euler-Triple Salchow (3Loop_Euler_3Salchow): A complex jump combination starting with a Triple Loop, followed by an Euler and a Triple Salchow.
+Double Loop-Double Toe Loop (2Loop_2Toeloop): A sequence of a Double Loop followed by a Double Toe Loop.

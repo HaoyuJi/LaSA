@@ -1,0 +1,8 @@
+Standing: The subject is stationary and upright on the ground.
+Walking:  The subject is engaged in a normal walking motion.
+Cart Handling: The individual is moving a cart, involving walking and maneuvering the cart to a new location.
+Handling (upwards):  The action where the subject lifts or handles an item to a level at or above their shoulder height (approximately 80% of their total height). This could involve reaching upwards or lifting an item above head level.
+Handling (centred): This involves handling activities that occur at the mid-level of the body, without the need to significantly bend over, kneel, or raise the arms to the level of the shoulder joints.
+Handling (downwards): The subject's hands are engaged below knee level (lower than 30% of their total height), indicating actions like picking items from lower shelves or the ground. The subject's posture might involve bending over or kneeling.
+Waving hands: A specific motion where both hands of the subject are raised above their head.
+None: No action or a pause in the routine.

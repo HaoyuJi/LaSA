@@ -1,0 +1,22 @@
+NONE
+Step Sequence
+Choreographic Combination Spin
+Axel
+Camel Spin
+Loop
+Flip
+Lutz
+Triple Joint Jump
+Lutz-Toe Loop
+Salchow
+Layback Spin
+Toe Loop
+Sit Spin
+Choreographic Sit Spin
+Axel-Toe Loop
+Flip-Toe Loop
+Toe Loop-Toe Loop
+Choreographic Camel Spin
+Salchow-Toe Loop
+Lutz-Loop
+Loop-Toe Loop

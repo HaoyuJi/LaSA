@@ -1,0 +1,8 @@
+Standing
+Walking
+Cart Handling
+Handling (upwards)
+Handling (centred)
+Handling (downwards)
+Waving hands
+None

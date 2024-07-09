@@ -1,0 +1,19 @@
+Spine Base (Middle Hip): The lowest central point of the spine, near the hips, considered the core center in body posture.
+Right Hip: The joint where the right thigh connects to the pelvis.
+Right Knee: The bending joint in the middle of the right leg.
+Right Ankle: The joint connecting the right lower leg to the foot.
+Right Foot: The front part of the right foot, including the toes.
+Left Hip: The joint where the left thigh connects to the pelvis.
+Left Knee: The bending joint in the middle of the left leg.
+Left Ankle: The joint connecting the left lower leg to the foot.
+Left Foot: The front part of the left foot, including the toes.
+Spine Mid: Midpoint of the spine, typically around the lower back.
+Head: The uppermost point of the head, often the crown.
+Neck: The connecting point between the torso and the head.
+Right Shoulder: The joint where the right upper arm and the torso meet.
+Right Elbow: The bending joint between the upper and lower parts of the right arm.
+Right Wrist: The joint connecting the right forearm and the hand.
+Neck: The connecting point between the torso and the head.
+Left Shoulder: The joint where the left upper arm and the torso meet.
+Left Elbow: The bending joint between the upper and lower parts of the left arm.
+Left Wrist: The joint connecting the left forearm and the hand.
