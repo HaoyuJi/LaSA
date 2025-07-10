@@ -273,7 +273,7 @@ class Model(nn.Module):
             return (outputs_cls, outputs_bound, outputs_feature, out_feature_split, self.logit_scale)
         else:
             for as_stage in self.asb:
-                out_cls, _ = as_stage(self.activation_asb(out_cls)* mask, feature* mask, mask)
+                out_cls, feature = as_stage(self.activation_asb(out_cls)* mask, feature* mask, mask)
 
             for br_stage in self.brb:
                 out_bound, _ = br_stage(self.activation_brb(out_bound), mask)
